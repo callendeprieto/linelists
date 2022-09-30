@@ -1,5 +1,5 @@
 # linelists
 linelists for synple/synspec
 
-Requires a posix shell, the Gnu fortran compiler and the Gnu data language (gdl)
+Requires a posix shell, wget, the Gnu fortran compiler and the Gnu data language (gdl)
 
