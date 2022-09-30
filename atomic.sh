@@ -1,6 +1,8 @@
 #!/bin/bash
 
 wget http://kurucz.harvard.edu/linelists/gfnew/gfall08oct17.dat
+gfortran mk19x_v3.f90 -o mk19x_v3
+
 echo gfall08oct17.dat > in
 echo 0. >> in
 echo 100000000000000000000000000000000000. >> in
